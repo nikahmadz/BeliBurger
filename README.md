@@ -1,2 +1,2 @@
 # BeliBurger
-A Food Delivery App
+> A Food Delivery App
