@@ -10,7 +10,7 @@
 
 ***
 
-&middot; Dibangunkan oleh [nikahmadz][6]
+Dibangunkan oleh [nikahmadz][6]
 &middot; [Github][7]
 &middot; [Dev][8]
 
