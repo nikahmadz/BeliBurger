@@ -1,4 +1,4 @@
-# BeliBurger 🍔
+# BeliBurger
 > Aplikasi Tempahan Makanan
 
 ***
