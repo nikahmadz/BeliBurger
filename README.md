@@ -1,4 +1,4 @@
-# [BeliBurger][1]
+# BeliBurger
 > 🍔 Aplikasi Tempahan Makanan
 
 ***
@@ -11,8 +11,9 @@
 ***
 
 Dibangunkan oleh [nikahmadz][6]
-\| [Github][7]
-\| [Dev][8]
+&middot; [Github][7]
+&middot; [Dev][8]
+&middot; [About][1]
 
 [1]:https://nikahmadz.github.io/BeliBurger/
 [2]:https://beliburger.netlify.app
