@@ -11,8 +11,8 @@
 ***
 
 Dibangunkan oleh [nikahmadz][6]
-&middot; [Github][7]
-&middot; [Dev][8]
+\| [Github][7]
+\| [Dev][8]
 
 [1]:https://nikahmadz.github.io/BeliBurger/
 [2]:https://beliburger.netlify.app
