@@ -1,4 +1,4 @@
-# BeliBurger ver1.0
+# BeliBurger
 > Aplikasi Tempahan Makanan
 
 - [Buka Aplikasi][1]
