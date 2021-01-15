@@ -4,7 +4,7 @@
 ***
 
 - [Buka Aplikasi][1]
-- [Dokumen dan Manual Pengguna][2]
+- [Maklumat Pengguna][2]
 - [Bantuan dan Maklumbalas][3]
 - [Aduan][4]
 - [Berikan sokongan di Github][5]
