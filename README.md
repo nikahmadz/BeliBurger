@@ -12,8 +12,8 @@
 
 [1]:https://beliburger.netlify.app
 [2]:https://github.com/nikahmadz/BeliBurger/wiki
-[3]:https://github.com/nikahmadz/BeliBurger/issues
-[4]:https://github.com/nikahmadz/BeliBurger/discussions
+[3]:https://github.com/nikahmadz/BeliBurger/discussions
+[4]:https://github.com/nikahmadz/BeliBurger/issues
 [5]:https://github.com/nikahmadz/BeliBurger
 [6]:https://github.com/nikahmadz/beli-burger
 
