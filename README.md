@@ -14,3 +14,8 @@
 [4]:https://github.com/nikahmadz/BeliBurger/discussions
 [5]:https://github.com/nikahmadz/BeliBurger/wiki
 [6]:https://github.com/nikahmadz/beli-burger
+
+***
+
+Dibangunkan oleh [nikahmadz][7]
+[7]:https://github.com/nikahmadz
