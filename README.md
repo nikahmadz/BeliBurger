@@ -13,7 +13,7 @@
 Dibangunkan oleh [nikahmadz][6]
 &middot; [Github][7]
 &middot; [Dev][8]
-&middot; [About][1]
+&middot; [Perihal][1]
 
 [1]:https://nikahmadz.github.io/BeliBurger/
 [2]:https://beliburger.netlify.app
