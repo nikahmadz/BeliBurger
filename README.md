@@ -1,5 +1,5 @@
 # BeliBurger
-> Aplikasi Tempahan Makanan
+> 🍔 Aplikasi Tempahan Makanan
 
 ***
 
