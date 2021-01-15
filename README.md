@@ -2,7 +2,7 @@
 > Aplikasi Tempahan Makanan
 
 - [Buka Aplikasi][1]
-- Bantu Pembangunan Aplikasi di [Github][2]
+- [Berikan sokongan di Github][2]
 - [Isu-isu berbangkit][3]
 - [Bantuan dan Maklumbalas][4]
 - [Dokumen dan Manual Pengguna][5]
