@@ -17,4 +17,4 @@
 
 ***
 
-Dibangunkan oleh [nikahmadz][2]
+Dibangunkan oleh [nikahmadz](https://nikahmadz.github.io/)
