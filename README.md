@@ -1,4 +1,4 @@
-# BeliBurger
+# BeliBurger 🍔
 > Aplikasi Tempahan Makanan
 
 ***
@@ -19,4 +19,4 @@
 
 ***
 
-Dibangunkan oleh [nikahmadz](https://nikahmadz.github.io/)
+Dibangunkan oleh [💖 nikahmadz](https://nikahmadz.github.io/)
