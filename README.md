@@ -1,6 +1,8 @@
 # BeliBurger
 > Aplikasi Tempahan Makanan
 
+***
+
 - [Buka Aplikasi][1]
 - [Berikan sokongan di Github][2]
 - [Isu-isu berbangkit][3]
